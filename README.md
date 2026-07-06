@@ -23,6 +23,8 @@ Analyze crop images, detect diseases, monitor weather, recommend fertilizers & m
 <img src="screenshots/home.png" width="900">
 </p>
 
+<img width="1882" height="918" alt="Image" src="https://github.com/user-attachments/assets/3fb59418-0726-43cb-9370-c7c300dd9f12" />
+
 ---
 
 ### 🌱 Upload Crop Image
