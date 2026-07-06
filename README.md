@@ -44,6 +44,7 @@ Analyze crop images, detect diseases, monitor weather, recommend fertilizers & m
 ---
 
 ### 📈 Mandi Price
+<img width="1883" height="887" alt="Image" src="https://github.com/user-attachments/assets/95f9a3bd-283b-47bf-a286-fcb761d58197" />
 ---
 
 ### 🏛 Government Schemes
