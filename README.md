@@ -47,39 +47,12 @@ Analyze crop images, detect diseases, monitor weather, recommend fertilizers & m
 
 ### 🌦 Weather Dashboard
 
-<p align="center">
 
-</p>
-
-
----
-
-### 💊 Medicine Recommendation
-
-<p align="center">
-<img src="screenshots/medicine.png" width="900">
-</p>
-
----
-
-### 🌿 Fertilizer Recommendation
-
-<p align="center">
-<img src="screenshots/fertilizer.png" width="900">
-</p>
-
----
-
-### 💧 Irrigation Advice
-
-<p align="center">
-<img src="screenshots/irrigation.png" width="900">
-</p>
 
 ---
 
 ### 📈 Mandi Prices
-
+mg width="1883" height="887" alt="Image" src="https://github.com/user-attachments/assets/95f9a3bd-283b-47bf-a286-fcb761d58197" />
 ---
 
 ### 🏛 Government Schemes
