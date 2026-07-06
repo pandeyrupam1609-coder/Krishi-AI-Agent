@@ -19,9 +19,6 @@ Analyze crop images, detect diseases, monitor weather, recommend fertilizers & m
 
 ### 🏠 Home Page
 
-<p align="center">
-<img src="screenshots/home.png" width="900">
-</p>
 
 <img width="1882" height="918" alt="Image" src="https://github.com/user-attachments/assets/3fb59418-0726-43cb-9370-c7c300dd9f12" />
 
@@ -29,9 +26,6 @@ Analyze crop images, detect diseases, monitor weather, recommend fertilizers & m
 
 ### 🌱 Upload Crop Image
 
-<p align="center">
-<img src="screenshots/upload.png" width="900">
-</p>
 
 <img width="1857" height="872" alt="Image" src="https://github.com/user-attachments/assets/ebad09fa-a002-4001-8451-ed2ea6e696b7" />
 
@@ -39,20 +33,17 @@ Analyze crop images, detect diseases, monitor weather, recommend fertilizers & m
 
 ### 🔍 Disease Detection
 
-<p align="center">
-<img src="screenshots/disease-detection.png" width="900">
-</p>
+
 
 ---
 
 ### 🌦 Weather Dashboard
 
-
+<" height="867" alt="Image" src="https://github.com/user-attachments/assets/db4216f4-ae2e-450f-9f6b-e743ff38ab31" />img width="1847
 
 ---
 
-### 📈 Mandi Prices
-mg width="1883" height="887" alt="Image" src="https://github.com/user-attachments/assets/95f9a3bd-283b-47bf-a286-fcb761d58197" />
+### 📈 Mandi Price
 ---
 
 ### 🏛 Government Schemes
