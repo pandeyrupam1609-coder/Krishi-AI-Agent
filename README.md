@@ -39,7 +39,7 @@ Analyze crop images, detect diseases, monitor weather, recommend fertilizers & m
 
 ### 🌦 Weather Dashboard
 
-<" height="867" alt="Image" src="https://github.com/user-attachments/assets/db4216f4-ae2e-450f-9f6b-e743ff38ab31" />img width="1847
+<img width="1847" height="867" alt="Image" src="https://github.com/user-attachments/assets/b0cd9741-3e24-4f59-936f-2df0ac8ece2e" />
 
 ---
 
