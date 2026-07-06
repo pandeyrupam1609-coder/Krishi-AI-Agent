@@ -330,4 +330,11 @@ npm run dev
 
 **Made with ❤️ for Smart Agriculture**
 
+---
+
+## 👨‍💻 Author
+
+**Rupam Pandey**  
+AI Developer | Smart Agriculture Enthusiast
+
 </div>
