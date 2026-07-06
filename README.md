@@ -80,15 +80,12 @@ Analyze crop images, detect diseases, monitor weather, recommend fertilizers & m
 
 ### 📈 Mandi Prices
 
-<img width="1866" height="876" alt="Image" src="https://github.com/user-attachments/assets/0a258748-0913-495f-8b39-13605efbad4d" />
 ---
 
 ### 🏛 Government Schemes
 
-<p align="center">
-<img src="screenshots/schemes.png" width="900">
-</p>
 
+<img width="1866" height="876" alt="Image" src="https://github.com/user-attachments/assets/0a258748-0913-495f-8b39-13605efbad4d" />
 ---
 
 # ✨ Features
