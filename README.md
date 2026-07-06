@@ -33,7 +33,7 @@ Analyze crop images, detect diseases, monitor weather, recommend fertilizers & m
 
 ### 🔍 Disease Detection
 
-
+<img width="1867" height="887" alt="Image" src="https://github.com/user-attachments/assets/de439f34-9aef-46e0-831b-7bff58b93107" />
 
 ---
 
