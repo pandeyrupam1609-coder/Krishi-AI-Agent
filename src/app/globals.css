@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+
+:root {
+  --background: #04080f;
+  --foreground: #f8fafc;
+  --card-bg: rgba(10, 20, 35, 0.7);
+  --card-border: rgba(16, 185, 129, 0.15);
+  
+  --emerald-glow: 0 0 25px rgba(16, 185, 129, 0.2);
+  --amber-glow: 0 0 25px rgba(245, 158, 11, 0.15);
+  --blue-glow: 0 0 25px rgba(14, 165, 233, 0.2);
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  overflow-x: hidden;
+  background-image: 
+    radial-gradient(at 10% 20%, rgba(16, 185, 129, 0.05) 0px, transparent 50%),
+    radial-gradient(at 90% 10%, rgba(14, 165, 233, 0.05) 0px, transparent 50%),
+    radial-gradient(at 50% 80%, rgba(245, 158, 11, 0.03) 0px, transparent 50%);
+  background-attachment: fixed;
+}
+
+/* Glassmorphism utility */
+.glass-panel {
+  background: var(--card-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--card-border);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-panel:hover {
+  border-color: rgba(16, 185, 129, 0.3);
+  box-shadow: var(--emerald-glow), 0 8px 32px 0 rgba(0, 0, 0, 0.45);
+}
+
+.glass-panel-amber {
+  background: var(--card-bg);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(245, 158, 11, 0.15);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  transition: all 0.3s ease;
+}
+
+.glass-panel-amber:hover {
+  border-color: rgba(245, 158, 11, 0.3);
+  box-shadow: var(--amber-glow), 0 8px 32px 0 rgba(0, 0, 0, 0.45);
+}
+
+.glass-input {
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(16, 185, 129, 0.2);
+  color: #fff;
+  transition: all 0.2s ease;
+}
+
+.glass-input:focus {
+  outline: none;
+  border-color: #10b981;
+  box-shadow: 0 0 0 2px rgba(16, 185, 129, 0.2);
+  background: rgba(15, 23, 42, 0.8);
+}
+
+/* Laser/Scanning Line animation */
+.scanner-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.scanner-line {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: linear-gradient(to right, transparent, #10b981, #34d399, #10b981, transparent);
+  box-shadow: 0 0 15px #10b981, 0 0 8px #34d399;
+  animation: scan 2.5s linear infinite;
+  z-index: 10;
+}
+
+@keyframes scan {
+  0% {
+    top: 0%;
+  }
+  50% {
+    top: 100%;
+  }
+  100% {
+    top: 0%;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #04080f;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #10b98133;
+  border-radius: 4px;
+  border: 2px solid #04080f;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #10b98166;
+}
+
+/* Micro-animations */
+.animate-pulse-slow {
+  animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: .5;
+  }
+}
+
+/* Glowing text */
+.glow-text-emerald {
+  text-shadow: 0 0 12px rgba(16, 185, 129, 0.5);
+}
+
+.glow-text-amber {
+  text-shadow: 0 0 12px rgba(245, 158, 11, 0.5);
+}
