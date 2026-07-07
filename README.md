@@ -287,8 +287,7 @@ npm run dev
 - 🔔 SMS & WhatsApp Alerts
 
 ---
-##Licence
-MIT Licence
+
 <div align="center">
 
 ### 🌾 Empowering Farmers with AI
@@ -296,6 +295,10 @@ MIT Licence
 **Made with ❤️ for Smart Agriculture**
 
 ---
+
+## License
+
+This project is licensed under the MIT License. 
 
 ## 👨‍💻 Author
 
