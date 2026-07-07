@@ -287,7 +287,8 @@ npm run dev
 - 🔔 SMS & WhatsApp Alerts
 
 ---
-
+##Licence
+MIT Licence
 <div align="center">
 
 ### 🌾 Empowering Farmers with AI
