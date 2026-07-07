@@ -308,8 +308,7 @@ AI Developer | Smart Agriculture Enthusiast
 ## 🤝 Team Member
 
 **Ritika Gupta** 
-Hackathon Team Member | Project Collaborator
-
+- Hackathon Team Member | Project Collaborator
 
 
 </div>
