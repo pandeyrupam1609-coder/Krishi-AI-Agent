@@ -300,9 +300,16 @@ npm run dev
 
 This project is licensed under the MIT License. 
 
-## 👨‍💻 Author
+## 👨‍💻 Author/Developer
 
 **Rupam Pandey**  
 AI Developer | Smart Agriculture Enthusiast
+
+
+## Team Member
+
+**Ritika Gupta**
+ Co-developer
+
 
 </div>
